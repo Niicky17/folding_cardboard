@@ -1,5 +1,6 @@
 import'package:flutter/material.dart';
 import 'package:folding_cardboard/src/lottery_ticket_model.dart';
+//
 
 class FoldingCardboard extends StatefulWidget {
   final Color color;
